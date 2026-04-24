@@ -1,4 +1,4 @@
-[02.01 - Introduction To Networking](/Courses/02.01%20-%20Introduction%20To%20Networking.md)
+[02.01 - Introduction To Networking](02.01%20-%20Introduction%20To%20Networking.md)
 
 **Known variables:**
 - **Network Address / Network ID** = 10.20.10.0
